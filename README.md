@@ -11,3 +11,11 @@ A conta root também está habilitada:
 
 Usuário: `root`  
 Senha: `toor`
+
+## Apoie o projeto
+
+Se quiser apoiar o MatteoSec Live via Pix:
+
+Chave Pix: 518.174.928.37
+
+Toda ajuda incentiva novas versões, correções e melhorias.
