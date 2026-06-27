@@ -16,6 +16,6 @@ Senha: `toor`
 
 Se quiser apoiar o MatteoSec Live via Pix:
 
-Chave Pix: 518.174.928.37
+Chave Pix: matteomoletta3@gmail.com
 
 Toda ajuda incentiva novas versões, correções e melhorias.
